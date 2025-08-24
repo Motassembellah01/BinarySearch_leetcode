@@ -8,5 +8,5 @@ Showcase my ability to approach problems systematically and improve over time. B
 
 🧩 Problems Solved
 
-  704. Binary Search
-  74. Search a 2D Matrix
+  704.Binary Search
+  74.Search a 2D Matrix
